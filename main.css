@@ -1,21 +1,18 @@
-
-		/* <!-- 1 --> */
-		/* #judul{
-			color: red;
-			margin: 50px;
-		} */
-
-		/* <!-- 2 --> */
-		h3 {
-			color: brown;
-			text-align: center;
-		}
-		#judul{
-			margin: 10px;
-		}
-		.class1{
-			background-color: aqua;
-		}
-		.save-siswa{
-
-		}
+h3 {
+	text-align: center;
+}
+.box{
+	background-color:#d0d0d0; 
+	margin-top:20px; 
+	border-radius:5px;
+}
+.textfoot{
+	text-align: center;
+	border-radius:5px;
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+hr.blue {
+  border-top: 1px dotted;
+}
